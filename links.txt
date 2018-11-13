@@ -1,0 +1,5 @@
+ pycharm gitlab wiki: https://gitlab.ml2grow.com/ml2grow/how-to/wikis/pycharm-ide
+ black: https://github.com/ambv/black#pycharm
+ github repo: https://github.com/Anton-4/pycharm_workshop
+ bloedgroepen: https://www.bswhealth.com/patient-tools/blood-center/Pages/blood-type-genetics-and-compatibility.aspx
+ 
